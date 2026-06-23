@@ -48,5 +48,7 @@ Working with project structure in GitHub
 
 👩‍💻 Author
 Name: GUNASUNDARI.M
+
 Project Type: Beginner Data Visualization Project
+
 Domain: Data Analytics
